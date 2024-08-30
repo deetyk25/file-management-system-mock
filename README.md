@@ -25,6 +25,7 @@ You will need to run these commands:
 - Authorize it for the testing account
 - Exchange tokens given the web client's ID and secret
 - Test and replace the statements starting with ** (any file uploaded must be present in the directory first)
+- You should have: node_modules directory, package-lock.json, and package.json after running these commands
 
 ## Features
 
