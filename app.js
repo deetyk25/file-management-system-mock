@@ -9,8 +9,8 @@ const readLine = require('readline-sync');
 const CLIENT_ID = '**insert here';
 const CLIENT_SECRET = '**insert here';
 const REDIRECT_URI = 'https://developers.google.com/oauthplayground';
-// refresh this each time you test
-// go to google oauthplayground, authorize apis for bgreener, step 2 has refresh token -- lasts for a day
+// Refresh this each time you test
+// Check README.md for how to test
 const REFRESH_TOKEN = '**insert here';
 
 // OAuth2Client SetUp
