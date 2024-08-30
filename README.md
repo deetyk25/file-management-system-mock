@@ -11,23 +11,20 @@ This project is an effort to understand how to leverage APIs when creating effic
 - [Contact](#contact)
 
 ## Installation
-
-Instructions on how to install and set up your project.
-
 ### Prerequisites
 
 You will need to run these commands:
 
-npm init -y
-npm install
-npm i googleapis
+- npm init -y
+- npm install
+- npm i googleapis
 
 ### Other Installation Steps
 
 - Go to https://developers.google.com/oauthplayground
 - Authorize it for the testing account
 - Exchange tokens given the web client's ID and secret
-- Test
+- Test and replace the statements starting with ** (any file uploaded must be present in the directory first)
 
 ## Features
 
